@@ -16,7 +16,7 @@ menuListArray = ["Pizza Vegetariana",
 
  function addItem(){
  var htmldata;
- var imgtags='<imgs id="im1" src="images/pizzaImg.png"/>'
+ var imgtags='<img id="im1" src="images/pizzaImg.png"/>'
  var item=document.getElementById("addItem").value;
  menuListArray.sort
  htmldata=""
